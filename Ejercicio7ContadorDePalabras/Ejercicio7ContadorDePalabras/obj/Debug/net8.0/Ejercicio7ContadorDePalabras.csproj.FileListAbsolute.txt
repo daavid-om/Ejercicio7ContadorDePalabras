@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\bin\Debug\net8.0\Ejercicio7ContadorDePalabras.exe
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\bin\Debug\net8.0\Ejercicio7ContadorDePalabras.deps.json
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\bin\Debug\net8.0\Ejercicio7ContadorDePalabras.runtimeconfig.json
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\bin\Debug\net8.0\Ejercicio7ContadorDePalabras.dll
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\bin\Debug\net8.0\Ejercicio7ContadorDePalabras.pdb
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.AssemblyInfo.cs
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.dll
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\refint\Ejercicio7ContadorDePalabras.dll
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.pdb
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\Ejercicio7ContadorDePalabras.genruntimeconfig.cache
+C:\Users\david\Desktop\C#\Ejercicio7ContadorDePalabras\Ejercicio7ContadorDePalabras\obj\Debug\net8.0\ref\Ejercicio7ContadorDePalabras.dll
